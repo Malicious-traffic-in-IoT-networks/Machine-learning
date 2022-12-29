@@ -1,6 +1,6 @@
 ## The performance of machine learning algorithms to detect <br>malicious traffic in IoT networks
 
-Seoul Women's University Department of Iformation Security  
+Seoul Women's University Department of Information Security  
 The Final Project for Artificial Intelligence and Information Security
 <br>
 
